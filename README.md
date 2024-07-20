@@ -3,6 +3,8 @@
 
 AgriCare is a comprehensive solution for diagnosing crop diseases using AI, providing a user-friendly iOS application to capture and analyze leaf images. The system comprises three main components: an iOS app, an API, and a deep learning AI model.
 
+https://github.com/user-attachments/assets/734b5bbd-f880-4a50-bb98-c6954be15cf9
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
