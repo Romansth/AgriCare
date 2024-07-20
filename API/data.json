@@ -1,0 +1,192 @@
+{
+    "Apple___Apple_scab":{
+       "plant":"Apple",
+       "disease":"Apple scab",
+       "remedy":"Remove and destroy the fallen leaf litter. Do not overcrowd plants. Use fungicide at 2-week intervals beginning when new growth is expanding in the spring."
+    },
+    "Apple___Black_rot":{
+       "plant":"Apple",
+       "disease":"Black rot",
+       "remedy":"Prune out dead or diseased branches, pick all dried and shriveled fruits remaining on the trees and remove infected plant material from the area."
+    },
+    "Apple___Cedar_apple_rust":{
+       "plant":"Apple",
+       "disease":"Cedar apple rust",
+       "remedy":"Rake up and dispose of fallen leaves and other debris from under trees. Apply preventative, disease-fighting fungicides labeled for use on apples weekly."
+    },
+    "Apple___healthy":{
+       "plant":"Apple",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Blueberry___healthy":{
+       "plant":"Blueberry",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Cherry_(including_sour)___Powdery_mildew":{
+       "plant":"Cherry",
+       "disease":"Powdery mildew",
+       "remedy":"Remove the affected leaves, stems, buds, fruit or vegetables from the plant. Do not compost any damaged or diseased foliage as the spores can spread and persist in the composted material. Disinfect pruners and all tools after using them on infected plants."
+    },
+    "Cherry_(including_sour)___healthy":{
+       "plant":"Cherry",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot":{
+       "plant":"Corn",
+       "disease":"Cercospora leaf spot",
+       "remedy":"Rotate to non-host crops (outside of the Chenopodium family) for 2-3 years. Bury infected crop residues and destroy volunteer plants and weed hosts. Burn down fields after harvesting. Avoid planting succession crops close together (at least 100 meters apart)."
+    },
+    "Corn_(maize)___Common_rust_":{
+       "plant":"Corn",
+       "disease":"Common rust",
+       "remedy":"Rotate to non-host crops (outside of the Chenopodium family) for 2-3 years. Bury infected crop residues and destroy volunteer plants and weed hosts. Burn down fields after harvesting. Avoid planting succession crops close together (at least 100 meters apart)"
+    },
+    "Corn_(maize)___Northern_Leaf_Blight":{
+       "plant":"Corn",
+       "disease":"Northern Leaf Blight",
+       "remedy":"Plant corn hybrids with disease resistance as it offers partial resistance offers significant disease control to help protect yields."
+    },
+    "Corn_(maize)___healthy":{
+       "plant":"Corn",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Grape___Black_rot":{
+       "plant":"Grape",
+       "disease":"Black rot",
+       "remedy":"Mancozeb, and Ziram are all highly effective against black rot."
+    },
+    "Grape___Esca_(Black_Measles)":{
+       "plant":"Grape",
+       "disease":"Black Measles",
+       "remedy":"Remove infected fruit prior to harvest. Current research is focused on protecting pruning wounds from fungal infections to minimize suspect fungi from colonizing fresh wounds."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)":{
+       "plant":"Grape",
+       "disease":"Leaf blight(Isariopsis_Leaf_Spot)",
+       "remedy":"Spraying of the grapevines at 3-4 leaf stage with fungicides like Bordeaux mixture at 0.8% or Copper Oxychloride at 0.25% or Carbendazim 0.1% are effective against this disease."
+    },
+    "Grape___healthy":{
+       "plant":"Grape",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Orange___Haunglongbing_(Citrus_greening)":{
+       "plant":"Orange",
+       "disease":"Haunglongbing(Citrus greening)",
+       "remedy":"Prevent the spread of the Huanglongbing pathogen by controlling psyllid populations and destroying any infected trees."
+    },
+    "Peach___Bacterial_spot":{
+       "plant":"Peach",
+       "disease":"Bacterial spot",
+       "remedy":"Spray oxytetracycline (Mycoshield and generic equivalents), and syllit+captan. Repeated applications are typically necessary for even minimal disease control."
+    },
+    "Peach___healthy":{
+       "plant":"Peach",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Pepper,_bell___Bacterial_spot":{
+       "plant":"Bell Pepper",
+       "disease":"Bacterial spot",
+       "remedy":" Seed treatment with hot water, soaking seeds for 30 minutes in water pre-heated to 125 F/51 C, is effective in reducing bacterial populations on the surface and inside the seeds."
+    },
+    "Pepper,_bell___healthy":{
+       "plant":"Bell Pepper",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Potato___Early_blight":{
+       "plant":"Potato",
+       "disease":"Early blight",
+       "remedy":"Avoid overhead irrigation and allow for sufficient aeration between plants to allow the foliage to dry as quickly as possible."
+    },
+    "Potato___Late_blight":{
+       "plant":"Potato",
+       "disease":"Late blight",
+       "remedy":"The severe late blight can be effectively managed with a prophylactic spray of mancozeb at 0.25% followed by cymoxanil+mancozeb or dimethomorph+mancozeb at 0.3% at the onset of disease and one more spray of mancozeb at 0.25% seven days after application of systemic fungicides"
+    },
+    "Potato___healthy":{
+       "plant":"Potato",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Raspberry___healthy":{
+       "plant":"Raspberry",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Soybean___healthy":{
+       "plant":"Soybean",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Squash___Powdery_mildew":{
+       "plant":"Squash",
+       "disease":"Powdery mildew",
+       "remedy":"Use resistant varieties when they are available. Thin plants to proper spacing so each leaf gets good exposure to the sun and fresh air. Starting in early summer, spray plants every 10 days with a mixture of one part milk (any kind) to four parts water."
+    },
+    "Strawberry___Leaf_scorch":{
+       "plant":"Strawberry",
+       "disease":"Leaf corch",
+       "remedy":"Remove the older and infected leaves from runner plants before setting. Take care in spacing runner plants in matted-row culture."
+    },
+    "Strawberry___healthy":{
+       "plant":"Strawberry",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    },
+    "Tomato___Bacterial_spot":{
+       "plant":"Tomato",
+       "disease":"Bacterial spot",
+       "remedy":"Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants. Burn, bury or hot compost the affected plants and do not eat symptomatic fruit."
+    },
+    "Tomato___Early_blight":{
+       "plant":"Tomato",
+       "disease":"Early blight",
+       "remedy":"Daconil® Fungicide Ready-to-Use treats early blight tomato plants. Avoid spraying tomatoes during extremely hot, sunny weather or when they're stressed by water loss or heat."
+    },
+    "Tomato___Late_blight":{
+       "plant":"Tomato",
+       "disease":"Late blight",
+       "remedy":"Fungicides that contain maneb, mancozeb, chlorothanolil, or fixed copper can help protect plants from late tomato blight. Repeated applications are necessary throughout the growing season as the disease can strike at any time."
+    },
+    "Tomato___Leaf_Mold":{
+       "plant":"Tomato",
+       "disease":"Leaf Mold",
+       "remedy":"Limiting the relative humidity in the hoophouse can help to prevent this disease. Vent, if possible, to promote air movement. Increase plant spacing, remove weeds, and prune and trellis plants."
+    },
+    "Tomato___Septoria_leaf_spot":{
+       "plant":"Tomato",
+       "disease":"Septoria leaf spot",
+       "remedy":"Rotate crops. Plant tomatoes in a raised bed to improve drainage and prevent diseases from spreading. Stake tomato plants for better circulation. Remove and destroy affected plants at the end of the season."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite":{
+       "plant":"Tomato",
+       "disease":"Spider mite",
+       "remedy":"The best way to begin treating for two-spotted mites is to apply a pesticide specific to mites called a miticide. Ideally, you should start treating for two-spotted mites before your plants are seriously damaged. Apply the miticide for control of two-spotted mites every 7 days or so."
+    },
+    "Tomato___Target_Spot":{
+       "plant":"Tomato",
+       "disease":"Target Spot",
+       "remedy":"The strobilurin fungicides azoxystrobin and pyraclostrobin, the fungicide boscalid, and the systemic acquired resistance (SAR) elicitor acibenzolar-S-methyl have been shown to provide good control of target spot."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus":{
+       "plant":"Tomato",
+       "disease":"Tomato Yellow Leaf Curl Virus",
+       "remedy":"Imidacloprid should be sprayed on the entire plant and below the leaves; eggs and flies are often found below the leaves. Spray every 14-21 days and rotate on a monthly basis with Abamectin so that the whiteflies do not build-up resistance to chemicals."
+    },
+    "Tomato___Tomato_mosaic_virus":{
+       "plant":"Tomato",
+       "disease":"Tomato mosaic virus",
+       "remedy":"Remove all infected plants and destroy them. Monitor the rest of your plants closely, especially those that were located near infected plants. Disinfect gardening tools after every use."
+    },
+    "Tomato___healthy":{
+       "plant":"Tomato",
+       "disease":"healthy",
+       "remedy":"Your crop is healthy"
+    }
+ }

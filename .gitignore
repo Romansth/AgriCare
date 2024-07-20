@@ -1,0 +1,98 @@
+plantvillage-dataset/
+Sec_API/
+
+# General
+.DS_Store
+Thumbs.db
+
+# Python (AI Model and API)
+__pycache__/
+*.py[cod]
+*.so
+*.h5
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+*.env
+*.venv
+
+# macOS
+*.DS_Store
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# iOS 
+# Xcode
+DerivedData/
+.idea/
+xcuserdata/
+*.xcscmblueprint
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/xcshareddata/**
+*.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/xcshareddata/
+!*.xcworkspace/xcshareddata/**
+*.playground/
+*.plist
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+Podfile.something
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# Bundler
+.bundle
+
+# SPM
+.build/
+
+# Xcode specific
+xcuserdata/
+DerivedData/
+*.xcuserdatad
+*.xccheckout
+*.xcscmblueprint
+
+# App files
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Other
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+
+# SwiftUI Preview
+*.preview-thumbnails
+
+# API Specific
+*.env
